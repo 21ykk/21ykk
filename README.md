@@ -99,27 +99,12 @@ Experimenting with new ideas and technologies.
 
 ---
 
-## Discord Presence
 
-<div align="center">
-
-<a href="https://discord.com/users/333688108660817922">
-  <img src="https://lanyard.cnrad.dev/api/333688108660817922?theme=dark&bg=202020&borderRadius=10&animated=true&hideDiscrim=true" alt="Discord Presence" />
-</a>
 
 </div>
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ykkq0/Ykkq0/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ykkq0/Ykkq0/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ykkq0/Ykkq0/output/github-snake.svg" />
-</picture>
 
 </div>
 
