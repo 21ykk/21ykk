@@ -3,95 +3,132 @@
 
 # Hi, I'm Bartus 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=808080&center=true&vCenter=true&width=550&lines=Discord+Bots+%7C+Web+Development;Linux+%7C+Servers+%7C+Automation;Exploring+AI+and+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=550&lines=Developer+from+Poland;Discord+Bots+%26+Web+Development;Linux+%7C+Servers+%7C+Automation;Exploring+AI+and+New+Technologies" alt="Typing SVG" />
 
-Developer from Poland 🇵🇱
+**Developer • Tech Enthusiast • Self-Hosting**
 
 </div>
 
 ---
 
-### About me
+## About Me
 
-I'm passionate about programming, automation and building useful projects.
+I'm Bartus, a developer from Poland who enjoys building useful applications, experimenting with new technologies, and exploring how things work.
 
-- Building custom Discord bots with JavaScript and Node.js
-- Working on websites and web applications
-- Exploring Linux, Docker, Proxmox and networking
-- Interested in AI, self-hosting and server infrastructure
-- Experimenting with Unity and Discord integrations
+- 💻 Building Discord bots, websites and automation tools
+- 🐧 Interested in Linux, servers and self-hosting
+- 🤖 Exploring AI and its practical applications
+- 🌐 Learning more about networking and infrastructure
+- 🎮 Experimenting with game development and Unity
+- 🚀 Always working on something new
 
-### Tech stack
+---
 
-**Languages & Web**
+## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=white)
+### Languages & Web
 
-**Tools & Infrastructure**
+![JavaScript](https://img.shields.io/badge/JavaScript-303030?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-303030?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-303030?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-303030?style=flat-square&logo=css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-303030?style=flat-square&logo=nodedotjs&logoColor=white)
 
-![Discord.js](https://img.shields.io/badge/Discord.js-333333?style=flat-square&logo=discord&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-333333?style=flat-square&logo=proxmox&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-333333?style=flat-square&logo=unity&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-333333?style=flat-square&logo=visualstudiocode&logoColor=white)
+### Tools & Frameworks
 
-### Projects & interests
+![Discord.js](https://img.shields.io/badge/Discord.js-303030?style=flat-square&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/Git-303030?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-303030?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-303030?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-303030?style=flat-square&logo=unity&logoColor=white)
 
-**Discord Development**
-- Recruitment systems with buttons, forms and admin reviews
-- Custom bots, automation and server management
+### Servers & Infrastructure
 
-**Web Development**
-- Websites, dashboards and user interfaces
-- Experiments with interactive web experiences
+![Linux](https://img.shields.io/badge/Linux-303030?style=flat-square&logo=linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-303030?style=flat-square&logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-303030?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-303030?style=flat-square&logo=proxmox&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-303030?style=flat-square&logo=mikrotik&logoColor=white)
 
-**Servers & Networking**
-- Linux and Debian server administration
-- Docker, Proxmox and virtualization
-- Exploring MikroTik networking and monitoring
+---
 
-**Game Development & AI**
-- Unity and Discord integration experiments
-- AI tools, automation and creative applications
+## What I'm Working On
 
-### Most used languages
+### Discord Development
+Building Discord bots with interactive systems and automated workflows.
+
+- Recruitment and application systems
+- Interactive buttons, forms and embeds
+- Server administration and automation
+- Discord API integrations
+
+### Web Development
+Creating websites and experimenting with modern user interfaces.
+
+- Interactive websites
+- Web dashboards and applications
+- Responsive interfaces
+- UI animations and effects
+
+### Servers & Networking
+Exploring infrastructure, virtualization and server management.
+
+- Linux and Debian administration
+- Docker containers
+- Proxmox virtualization
+- Network monitoring and management
+- Self-hosted services
+
+### AI & Game Development
+Experimenting with new ideas and technologies.
+
+- AI-powered tools and automation
+- Image generation technologies
+- Unity projects
+- Game and Discord integrations
+
+---
+
+## GitHub Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ykkq0&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ykkq0&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
 </div>
 
-### Contribution activity
+---
+
+## Discord Presence
+
+<div align="center">
+
+<a href="https://discord.com/users/333688108660817922">
+  <img src="https://lanyard.cnrad.dev/api/333688108660817922?theme=dark&bg=202020&borderRadius=10&animated=true&hideDiscrim=true" alt="Discord Presence" />
+</a>
+
+</div>
+
+---
+
+## Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ykkq0/Ykkq0/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ykkq0/Ykkq0/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ykkq0/Ykkq0/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ykkq0/Ykkq0/output/github-snake.svg" />
 </picture>
 
 </div>
-
-<!-- DISCORD STATUS - activate after adding your Discord ID
-
-### Discord Presence
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID)](https://discord.com/users/YOUR_DISCORD_ID)
-
--->
 
 ---
 
 <div align="center">
 
-*Always learning. Always building.*
+**Always learning. Always building.**
+
+<sub>Made by Bartus</sub>
 
 </div>
